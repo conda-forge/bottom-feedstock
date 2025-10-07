@@ -1,5 +1,5 @@
 context:
-  version: "0.11.1"
+  version: "0.11.2"
 
 package:
   name: bottom
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/ClementTsang/bottom/archive/${{ version }}.tar.gz
-  sha256: 0095ea9edb386ad7c49d845176314097713661d22ec42314e3be46426bc769ee
+  sha256: 213fbea68a315e012a0ab37e3382a287f0424675a47de04801aef4758458e64b
 
 build:
   number: 0
